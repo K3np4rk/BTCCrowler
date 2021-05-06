@@ -7,7 +7,6 @@ from selenium import webdriver
 from time import sleep
 
 
-
 def getInfoNS():
     driver = webdriver.Firefox()
     try:
