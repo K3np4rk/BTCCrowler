@@ -1,0 +1,289 @@
+1620239226458	geckodriver	INFO	Listening on 127.0.0.1:51069
+1620239229494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\higor\\AppData\\Local\\Temp\\rust_mozprofilejlzg4F"
+1620239230050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620239231585	Marionette	INFO	Listening on port 51077
+1620239231668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620239232607	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620239232686	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620239233610	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620239233809	Marionette	INFO	Stopped listening on port 51077
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\higor\AppData\Local\Temp\rust_mozprofilejlzg4F\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620239668453	geckodriver	INFO	Listening on 127.0.0.1:51289
+1620239671547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\higor\\AppData\\Local\\Temp\\rust_mozprofilegeZQ6g"
+1620239671984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620239673431	Marionette	INFO	Listening on port 51297
+1620239673613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620239674987	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620239674992	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620239674998	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620239675001	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620239675004	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620239675008	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620239722516	Marionette	INFO	Stopped listening on port 51297
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620247592410	geckodriver	INFO	Listening on 127.0.0.1:52535
+1620247595443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\higor\\AppData\\Local\\Temp\\rust_mozprofileD9jH7x"
+1620247595880	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620247597472	Marionette	INFO	Listening on port 52543
+1620247597501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620247599823	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620247600054	Marionette	INFO	Stopped listening on port 52543
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620247659270	geckodriver	INFO	Listening on 127.0.0.1:52623
+1620247662330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\higor\\AppData\\Local\\Temp\\rust_mozprofileigKVAi"
+1620247662756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620247664246	Marionette	INFO	Listening on port 52632
+1620247664373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620247665234	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620247665255	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620247665262	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620247665360	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620247665362	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620247665364	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620247666479	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620247666634	Marionette	INFO	Stopped listening on port 52632
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620248057269	geckodriver	INFO	Listening on 127.0.0.1:52812
+1620248060288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\higor\\AppData\\Local\\Temp\\rust_mozprofileilEqpF"
+1620248060710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620248062344	Marionette	INFO	Listening on port 52820
+1620248062459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620248063774	Marionette	INFO	Stopped listening on port 52820
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5520, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1620248342051	geckodriver	INFO	Listening on 127.0.0.1:52934
+1620248345075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\higor\\AppData\\Local\\Temp\\rust_mozprofileeO0Aa7"
+1620248345482	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620248346958	Marionette	INFO	Listening on port 52943
+1620248347125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620248353109	Marionette	INFO	Stopped listening on port 52943
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620307017478	geckodriver	INFO	Listening on 127.0.0.1:58706
+1620307020593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\higor\\AppData\\Local\\Temp\\rust_mozprofilelPVEPF"
+1620307021036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620307022672	Marionette	INFO	Listening on port 58715
+1620307022788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620307024126	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307024128	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307024129	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307024132	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307024136	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307024139	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307027343	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307027399	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in4me18m.nike.com.br/nike2.php, line 13: ReferenceError: expiresDC is not defined
+JavaScript error: https://in4me18m.nike.com.br/nike2.php, line 13: ReferenceError: expiresDC is not defined
+1620307028380	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307028406	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://5745935bd86d83b0fb8dc7c116b4b4e2.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 15: ReferenceError: osdlfm is not defined
+JavaScript error: https://7eaf0bcbe809f55d1d4f38d11b9613f0.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 15: ReferenceError: osdlfm is not defined
+JavaScript error: https://5745935bd86d83b0fb8dc7c116b4b4e2.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 15: ReferenceError: osdlfm is not defined
+JavaScript error: https://7eaf0bcbe809f55d1d4f38d11b9613f0.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 15: ReferenceError: osdlfm is not defined
+JavaScript error: https://5745935bd86d83b0fb8dc7c116b4b4e2.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 15: ReferenceError: osdlfm is not defined
+JavaScript error: https://5745935bd86d83b0fb8dc7c116b4b4e2.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 15: ReferenceError: osdlfm is not defined
+JavaScript error: https://7eaf0bcbe809f55d1d4f38d11b9613f0.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 15: ReferenceError: osdlfm is not defined
+JavaScript error: https://7eaf0bcbe809f55d1d4f38d11b9613f0.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 15: ReferenceError: osdlfm is not defined
+JavaScript error: https://in4me18m.nike.com.br/nike2.php, line 13: ReferenceError: expiresDC is not defined
+JavaScript error: https://in4me18m.nike.com.br/nike2.php, line 13: ReferenceError: expiresDC is not defined
+1620307028777	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307028793	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307028827	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307028929	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in4me18m.nike.com.br/nike2.php, line 13: ReferenceError: expiresDC is not defined
+1620307028989	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in4me18m.nike.com.br/nike2.php, line 13: ReferenceError: expiresDC is not defined
+1620307029009	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307029074	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in4me18m.nike.com.br/nike2.php, line 13: ReferenceError: expiresDC is not defined
+1620307029159	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in4me18m.nike.com.br/nike2.php, line 13: ReferenceError: expiresDC is not defined
+JavaScript error: https://in4me18m.nike.com.br/nike2.php, line 13: ReferenceError: expiresDC is not defined
+JavaScript error: https://in4me18m.nike.com.br/nike2.php, line 13: ReferenceError: expiresDC is not defined
+JavaScript error: https://in4me18m.nike.com.br/nike2.php, line 13: ReferenceError: expiresDC is not defined
+JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 264: SecurityError: The operation is insecure.
+JavaScript error: https://in4me18m.nike.com.br/nike2.php, line 13: ReferenceError: expiresDC is not defined
+JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 264: SecurityError: The operation is insecure.
+JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 264: SecurityError: The operation is insecure.
+JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 264: SecurityError: The operation is insecure.
+JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 264: SecurityError: The operation is insecure.
+JavaScript error: https://www.americanas.com.br/?opn=AFLACOM&epar=b2wafiliados&franq=AFL-03-204149, line 31: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1620307054182	Marionette	INFO	Stopped listening on port 58715
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620307075292	geckodriver	INFO	Listening on 127.0.0.1:58892
+1620307078422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\higor\\AppData\\Local\\Temp\\rust_mozprofileNjNMwu"
+1620307078803	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620307080182	Marionette	INFO	Listening on port 58900
+1620307080499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620307081806	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307081808	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307081811	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307081813	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307081816	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307081819	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307085702	Marionette	INFO	Stopped listening on port 58900
+1620307091646	geckodriver	INFO	Listening on 127.0.0.1:58999
+1620307094685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\higor\\AppData\\Local\\Temp\\rust_mozprofilePanh51"
+1620307095069	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620307096465	Marionette	INFO	Listening on port 59007
+1620307096728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620307098075	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307098077	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307098080	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307098083	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307098087	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307098089	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://10cbf6ec06b2339cc15f06d7dfcfed10.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 15: ReferenceError: osdlfm is not defined
+JavaScript error: https://10cbf6ec06b2339cc15f06d7dfcfed10.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 15: ReferenceError: osdlfm is not defined
+JavaScript error: https://10cbf6ec06b2339cc15f06d7dfcfed10.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 15: ReferenceError: osdlfm is not defined
+JavaScript error: https://10cbf6ec06b2339cc15f06d7dfcfed10.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 15: ReferenceError: osdlfm is not defined
+1620307105635	Marionette	INFO	Stopped listening on port 59007
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620307114797	geckodriver	INFO	Listening on 127.0.0.1:59127
+1620307117892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\higor\\AppData\\Local\\Temp\\rust_mozprofileLk5kLg"
+1620307118304	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620307119701	Marionette	INFO	Listening on port 59135
+1620307119942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620307121164	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307121167	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307121169	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307121173	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307121175	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307121177	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.americanas.com.br/?opn=AFLACOM&epar=b2wafiliados&franq=AFL-03-204149, line 31: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620307128603	Marionette	INFO	Stopped listening on port 59135
+1620307133210	geckodriver	INFO	Listening on 127.0.0.1:59270
+1620307136304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\higor\\AppData\\Local\\Temp\\rust_mozprofilenTmozx"
+1620307136696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620307138079	Marionette	INFO	Listening on port 59278
+1620307138364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620307139779	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307139781	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307139784	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307139787	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307139791	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620307139794	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1620307154736	Marionette	INFO	Stopped listening on port 59278
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620312492730	geckodriver	INFO	Listening on 127.0.0.1:63989
+1620312495774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\higor\\AppData\\Local\\Temp\\rust_mozprofile70QUfp"
+1620312496184	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620312497993	Marionette	INFO	Listening on port 63997
+1620312498441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620312500489	Marionette	INFO	Stopped listening on port 63997
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
