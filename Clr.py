@@ -27,7 +27,7 @@ def enviaEmail():
     msg['To'] = "higor_com@hotmail.com"
     msg['Subject'] = "Segue em anexo lucros referente aos dias "
 
-    # Adicona mensagem e anexo ao corpo do email
+    # Adiciona mensagem e anexo ao corpo do email
     part = MIMEBase('application', "octet-stream")
     part.set_payload(open("teste.xlsx", "rb").read())
     encoders.encode_base64(part)
